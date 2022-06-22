@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "magyar.h"
 
-nincsertekvissza foo(duplapontos s1, duplapontos s2){
+ures foo(duplapontos s1, duplapontos s2){
   nagyon_hosszu egesz c = (nagyon_hosszu) s1+s2;
   
 }

@@ -3,7 +3,7 @@
 #define hosszu long
 #define nagyon_hosszu long long
 #define rovid short
-#define nincsertekvissza void
+#define ures void
 #define szerkezet struct
 #define egyseg union
 #define felsorolas enum
